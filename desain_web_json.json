@@ -1,0 +1,25 @@
+[
+{"type":"header","version":"5.2.0","comment":"Export to JSON plugin for PHPMyAdmin"},
+{"type":"database","name":"desain web_json"},
+{"type":"table","name":"tugas_json","database":"desain web_json","data":
+[
+{"id":"1","name":"Xiaomi Note 11","brand":"Xiaomi ","price":"3100000","created_at":"2022-08-09 18:08:26","updated_at":"2022-08-09 18:08:26"},
+{"id":"2","name":"Xiaomi Note 11","brand":"Xiaomi","price":"2900000","created_at":"2022-08-09 19:14:24","updated_at":"2022-08-09 19:14:24"},
+{"id":"3","name":"Xiaomi Note 9","brand":"Xiaomi ","price":"2500000","created_at":"2022-08-09 10:15:41","updated_at":"2022-08-09 10:15:41"},
+{"id":"4","name":"Samsung Galaxy S21","brand":"Samsung","price":"12000000","created_at":"2022-08-09 05:16:23","updated_at":"2022-08-09 05:16:23"},
+{"id":"5","name":"Samsung Galaxy S20","brand":"Samsung","price":"10000000","created_at":"2022-08-09 04:50:26","updated_at":"2022-08-09 04:50:26"},
+{"id":"6","name":"Samsung Galaxy S10","brand":"Samsung","price":"8000000","created_at":"2022-08-09 20:20:45","updated_at":"2022-08-09 20:20:45"}
+]
+ }
+,{"type":"table","name":"users","database":"desain web_json","data":
+[
+{"id":"1","name":"Admin Laravel","email":"adminlaravel@tes.com","email_verified_at":null,"password":"aab0dc1ddcbf2f64d3eb639a8b173879",
+    "remember_token":null,"created_at":"2022-05-01 03:17:28","updated_at":"2022-05-01 03:17:28"},
+{"id":"2","name":"Agus","email":"agus@gmail.com","email_verified_at":null,"password":"01c3c766ce47082b1b130daedd347ffd",
+    "remember_token":null,"created_at":"2022-08-09 06:35:18","updated_at":"2022-08-09 03:17:28"},
+{"id":"3","name":"Joni","email":"joni@email.com","email_verified_at":null,"password":"1c0ac25b077a885dc53d91b05b14544e",
+    "remember_token":null,"created_at":"2022-06-05 03:17:28","updated_at":"2022-06-05 03:17:28"}
+]
+}
+ ]
+    
